@@ -13,7 +13,7 @@ Model prediction/output = DEMOGRAPHY
 ## ![output.png](output.png)
 
 ## Method to Execute the Project
-1. Install the libraries using the command - pip install -r requirements
+1. Install the libraries using the command - pip install -r requirements.txt
 2. Run the app_gradio.py file - python3 app_gradio.py
 
 ### Training a model from Scratch
